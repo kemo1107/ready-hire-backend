@@ -1,0 +1,2494 @@
+{
+  "Version": 1,
+  "Hash": "59nW6If8gM1a+FvONYhLk4EvXgZMh1dZWRSBosZqrtg=",
+  "Source": "ReadyHire",
+  "BasePath": "_content/ReadyHire",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ReadyHire\\wwwroot",
+      "Source": "ReadyHire",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\1214573d-9193-4358-99dc-9e9892b962c6_خلاصة IQ.pdf",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "cvs/1214573d-9193-4358-99dc-9e9892b962c6_خلاصة IQ#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yz2t52oo0f",
+      "Integrity": "kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cvs\\1214573d-9193-4358-99dc-9e9892b962c6_خلاصة IQ.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\20e2c1b6-38ce-4eb5-812f-fbec96c5b918_خلاصة EN.pdf",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "cvs/20e2c1b6-38ce-4eb5-812f-fbec96c5b918_خلاصة EN#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ye780w6x52",
+      "Integrity": "dgi4Q3//QcDrdlu+jSXQ0Xc3hehPZ9DJ0rVEqYuxIOU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cvs\\20e2c1b6-38ce-4eb5-812f-fbec96c5b918_خلاصة EN.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\4238f5e9-da72-4e48-9a6b-2c07b484fe32_MC MCQ 3 Solved.pdf",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "cvs/4238f5e9-da72-4e48-9a6b-2c07b484fe32_MC MCQ 3 Solved#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "en8c3qz4c8",
+      "Integrity": "ynGuOHVmsCsVwuXwwuJvM0mMkFqawJP8XRpa7JxLkMQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cvs\\4238f5e9-da72-4e48-9a6b-2c07b484fe32_MC MCQ 3 Solved.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\5286af11-b52c-4087-b26d-ebdb8468089d_خلاصة IQ.pdf",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "cvs/5286af11-b52c-4087-b26d-ebdb8468089d_خلاصة IQ#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yz2t52oo0f",
+      "Integrity": "kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cvs\\5286af11-b52c-4087-b26d-ebdb8468089d_خلاصة IQ.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\600b6b9b-5a69-42f1-9b6a-f4f52d90697e_خلاصة EN.pdf",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "cvs/600b6b9b-5a69-42f1-9b6a-f4f52d90697e_خلاصة EN#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ye780w6x52",
+      "Integrity": "dgi4Q3//QcDrdlu+jSXQ0Xc3hehPZ9DJ0rVEqYuxIOU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cvs\\600b6b9b-5a69-42f1-9b6a-f4f52d90697e_خلاصة EN.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\9f35fc58-3476-459b-8d2f-c2f91d52824f_خلاصة IQ.pdf",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "cvs/9f35fc58-3476-459b-8d2f-c2f91d52824f_خلاصة IQ#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yz2t52oo0f",
+      "Integrity": "kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cvs\\9f35fc58-3476-459b-8d2f-c2f91d52824f_خلاصة IQ.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\a43653b2-b27f-45ac-9d27-a928d2851044_HIM&MDA manual 1.pdf",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "cvs/a43653b2-b27f-45ac-9d27-a928d2851044_HIM&MDA manual 1#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ac6pwf05j",
+      "Integrity": "qKzs/vF+2e55RxzmXGDIWmKKB+7hGSmIvzRCba6sChI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cvs\\a43653b2-b27f-45ac-9d27-a928d2851044_HIM&MDA manual 1.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\a6c6d5b0-122f-4601-bad4-ec411dff4f62_خلاصة IQ.pdf",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "cvs/a6c6d5b0-122f-4601-bad4-ec411dff4f62_خلاصة IQ#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yz2t52oo0f",
+      "Integrity": "kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cvs\\a6c6d5b0-122f-4601-bad4-ec411dff4f62_خلاصة IQ.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\033587f8-9d65-4b27-b531-1055695643e0_Screenshot 2025-04-04 215057.png",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/033587f8-9d65-4b27-b531-1055695643e0_Screenshot 2025-04-04 215057#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tyzk2sfcn0",
+      "Integrity": "6+rvVz66wSy9TmRE6IMgaOdW6Z5w55/hLhm9uuWg7F4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\033587f8-9d65-4b27-b531-1055695643e0_Screenshot 2025-04-04 215057.png"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\2401c1d6-6729-41e0-bf9e-8885ef34b6db_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/2401c1d6-6729-41e0-bf9e-8885ef34b6db_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zx0zf9e021",
+      "Integrity": "hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\2401c1d6-6729-41e0-bf9e-8885ef34b6db_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\335a4760-f99e-4e92-82ca-cd4c8f88dabe_Outdoors-man-portrait_(cropped).jpg",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/335a4760-f99e-4e92-82ca-cd4c8f88dabe_Outdoors-man-portrait_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rkz19ibrcx",
+      "Integrity": "Wwtua97XkjFXHOCo3S3xhkw4XzqFBhp+5X8BO3Gwzxc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\335a4760-f99e-4e92-82ca-cd4c8f88dabe_Outdoors-man-portrait_(cropped).jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\35c9fe04-728b-4f8b-8bb7-bb22b126b7d5_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/35c9fe04-728b-4f8b-8bb7-bb22b126b7d5_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zx0zf9e021",
+      "Integrity": "hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\35c9fe04-728b-4f8b-8bb7-bb22b126b7d5_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\3947e358-470a-483a-9b37-1a1012cb738d_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/3947e358-470a-483a-9b37-1a1012cb738d_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zx0zf9e021",
+      "Integrity": "hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\3947e358-470a-483a-9b37-1a1012cb738d_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\3ac05f21-798f-4b36-88b4-5afc5aaa2e27_Outdoors-man-portrait_(cropped).jpg",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/3ac05f21-798f-4b36-88b4-5afc5aaa2e27_Outdoors-man-portrait_(cropped)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rkz19ibrcx",
+      "Integrity": "Wwtua97XkjFXHOCo3S3xhkw4XzqFBhp+5X8BO3Gwzxc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\3ac05f21-798f-4b36-88b4-5afc5aaa2e27_Outdoors-man-portrait_(cropped).jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\441eced8-98f2-4994-bce8-6a058073c486_download.jfif",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/441eced8-98f2-4994-bce8-6a058073c486_download#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rehtguwmrz",
+      "Integrity": "Y8Uw1/nZ/IkOdYoSv7s7S+l3mn5Fzh5KU5T9RKLyS9g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\441eced8-98f2-4994-bce8-6a058073c486_download.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\4726a412-36fd-452f-befd-0ab9360e7ff5_We_logo.svg.png",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/4726a412-36fd-452f-befd-0ab9360e7ff5_We_logo.svg#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b3utukyj06",
+      "Integrity": "l8uhA8acxfVlyMAbin/Kot9ZVNblW4x9hrK5sQj6sv0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\4726a412-36fd-452f-befd-0ab9360e7ff5_We_logo.svg.png"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\66ff3e9b-468e-4f8d-b2c2-0ab48dd9bda5_Screenshot (2).png",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/66ff3e9b-468e-4f8d-b2c2-0ab48dd9bda5_Screenshot (2)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uweoik8juq",
+      "Integrity": "gjwPeBHzEAi+xhxXPbSPESHa7mRLW35/QJkf3WEfBbk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\66ff3e9b-468e-4f8d-b2c2-0ab48dd9bda5_Screenshot (2).png"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\6bddb4ae-4130-47fa-803c-a5dbbfb30223_494356430_715753211028586_7703142678105877096_n.jpg",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/6bddb4ae-4130-47fa-803c-a5dbbfb30223_494356430_715753211028586_7703142678105877096_n#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wsekf00kkd",
+      "Integrity": "EAl8t1Yqapq5m/YH1U/x3Nxld/nYXkrY1rSICveIR+0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\6bddb4ae-4130-47fa-803c-a5dbbfb30223_494356430_715753211028586_7703142678105877096_n.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\80113249-3644-4e07-926e-05c62a2d805b_anime-girl-tattoo-demon-horn-8k-wallpaper-uhdpaper.com-224@3@a.jpg",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/80113249-3644-4e07-926e-05c62a2d805b_anime-girl-tattoo-demon-horn-8k-wallpaper-uhdpaper.com-224@3@a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "io9sel84um",
+      "Integrity": "/h0+OMVsO4W38kIH359qYWDd3W4lOSpXLI+QFbhEo3s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\80113249-3644-4e07-926e-05c62a2d805b_anime-girl-tattoo-demon-horn-8k-wallpaper-uhdpaper.com-224@3@a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\a4e280f2-f6f3-4371-880f-fdd09791651a_Screenshot (265).png",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/a4e280f2-f6f3-4371-880f-fdd09791651a_Screenshot (265)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tgu2jexw8m",
+      "Integrity": "vQF3Ypq7EEoKf6UxsGHSocO/GWT14h7dh2I9Dzu0+q0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\a4e280f2-f6f3-4371-880f-fdd09791651a_Screenshot (265).png"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\bf3eb814-0c07-4fba-b528-79282f70bd05_bcf893c4128e6b65d0e472383f3e9f23.jpg",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/bf3eb814-0c07-4fba-b528-79282f70bd05_bcf893c4128e6b65d0e472383f3e9f23#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "76mgy9lnsn",
+      "Integrity": "wfUwm1G+2gelAtRJ3vPLoewhxyHLrHnZfbnXsLfM8EM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\bf3eb814-0c07-4fba-b528-79282f70bd05_bcf893c4128e6b65d0e472383f3e9f23.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\c56d8aa1-df45-40ac-b440-628e78429ac0_images.jpg",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/c56d8aa1-df45-40ac-b440-628e78429ac0_images#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g8m84pfna3",
+      "Integrity": "cKW5WOLXnZfwda3EeI5+bqvvNbWtudfOv4WcXRv+1x8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\c56d8aa1-df45-40ac-b440-628e78429ac0_images.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\d163adc6-e63c-4969-9417-18a20a794145_Screenshot (2).png",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/d163adc6-e63c-4969-9417-18a20a794145_Screenshot (2)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uweoik8juq",
+      "Integrity": "gjwPeBHzEAi+xhxXPbSPESHa7mRLW35/QJkf3WEfBbk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\d163adc6-e63c-4969-9417-18a20a794145_Screenshot (2).png"
+    },
+    {
+      "Identity": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\e47b0cbe-ae26-41a7-b265-0ed4d1786175_unnamed.jpg",
+      "SourceId": "ReadyHire",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\",
+      "BasePath": "_content/ReadyHire",
+      "RelativePath": "user-profile-pics/e47b0cbe-ae26-41a7-b265-0ed4d1786175_unnamed#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i45n9s11rq",
+      "Integrity": "smKRX7o9pW93TJdOgoxAQwivuEFPSfimrE6uqSgzjfI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-profile-pics\\e47b0cbe-ae26-41a7-b265-0ed4d1786175_unnamed.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "cvs/1214573d-9193-4358-99dc-9e9892b962c6_خلاصة IQ.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\1214573d-9193-4358-99dc-9e9892b962c6_خلاصة IQ.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2618706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 10:52:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/1214573d-9193-4358-99dc-9e9892b962c6_خلاصة IQ.yz2t52oo0f.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\1214573d-9193-4358-99dc-9e9892b962c6_خلاصة IQ.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2618706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 10:52:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yz2t52oo0f"
+        },
+        {
+          "Name": "label",
+          "Value": "cvs/1214573d-9193-4358-99dc-9e9892b962c6_خلاصة IQ.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/20e2c1b6-38ce-4eb5-812f-fbec96c5b918_خلاصة EN.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\20e2c1b6-38ce-4eb5-812f-fbec96c5b918_خلاصة EN.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1131591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dgi4Q3//QcDrdlu+jSXQ0Xc3hehPZ9DJ0rVEqYuxIOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 11:12:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dgi4Q3//QcDrdlu+jSXQ0Xc3hehPZ9DJ0rVEqYuxIOU="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/20e2c1b6-38ce-4eb5-812f-fbec96c5b918_خلاصة EN.ye780w6x52.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\20e2c1b6-38ce-4eb5-812f-fbec96c5b918_خلاصة EN.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1131591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dgi4Q3//QcDrdlu+jSXQ0Xc3hehPZ9DJ0rVEqYuxIOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 11:12:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ye780w6x52"
+        },
+        {
+          "Name": "label",
+          "Value": "cvs/20e2c1b6-38ce-4eb5-812f-fbec96c5b918_خلاصة EN.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dgi4Q3//QcDrdlu+jSXQ0Xc3hehPZ9DJ0rVEqYuxIOU="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/4238f5e9-da72-4e48-9a6b-2c07b484fe32_MC MCQ 3 Solved.en8c3qz4c8.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\4238f5e9-da72-4e48-9a6b-2c07b484fe32_MC MCQ 3 Solved.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ynGuOHVmsCsVwuXwwuJvM0mMkFqawJP8XRpa7JxLkMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 15:49:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "en8c3qz4c8"
+        },
+        {
+          "Name": "label",
+          "Value": "cvs/4238f5e9-da72-4e48-9a6b-2c07b484fe32_MC MCQ 3 Solved.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ynGuOHVmsCsVwuXwwuJvM0mMkFqawJP8XRpa7JxLkMQ="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/4238f5e9-da72-4e48-9a6b-2c07b484fe32_MC MCQ 3 Solved.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\4238f5e9-da72-4e48-9a6b-2c07b484fe32_MC MCQ 3 Solved.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ynGuOHVmsCsVwuXwwuJvM0mMkFqawJP8XRpa7JxLkMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 15:49:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ynGuOHVmsCsVwuXwwuJvM0mMkFqawJP8XRpa7JxLkMQ="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/5286af11-b52c-4087-b26d-ebdb8468089d_خلاصة IQ.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\5286af11-b52c-4087-b26d-ebdb8468089d_خلاصة IQ.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2618706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:51:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/5286af11-b52c-4087-b26d-ebdb8468089d_خلاصة IQ.yz2t52oo0f.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\5286af11-b52c-4087-b26d-ebdb8468089d_خلاصة IQ.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2618706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:51:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yz2t52oo0f"
+        },
+        {
+          "Name": "label",
+          "Value": "cvs/5286af11-b52c-4087-b26d-ebdb8468089d_خلاصة IQ.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/600b6b9b-5a69-42f1-9b6a-f4f52d90697e_خلاصة EN.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\600b6b9b-5a69-42f1-9b6a-f4f52d90697e_خلاصة EN.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1131591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dgi4Q3//QcDrdlu+jSXQ0Xc3hehPZ9DJ0rVEqYuxIOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 17:11:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dgi4Q3//QcDrdlu+jSXQ0Xc3hehPZ9DJ0rVEqYuxIOU="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/600b6b9b-5a69-42f1-9b6a-f4f52d90697e_خلاصة EN.ye780w6x52.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\600b6b9b-5a69-42f1-9b6a-f4f52d90697e_خلاصة EN.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1131591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dgi4Q3//QcDrdlu+jSXQ0Xc3hehPZ9DJ0rVEqYuxIOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 17:11:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ye780w6x52"
+        },
+        {
+          "Name": "label",
+          "Value": "cvs/600b6b9b-5a69-42f1-9b6a-f4f52d90697e_خلاصة EN.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dgi4Q3//QcDrdlu+jSXQ0Xc3hehPZ9DJ0rVEqYuxIOU="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/9f35fc58-3476-459b-8d2f-c2f91d52824f_خلاصة IQ.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\9f35fc58-3476-459b-8d2f-c2f91d52824f_خلاصة IQ.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2618706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 12:13:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/9f35fc58-3476-459b-8d2f-c2f91d52824f_خلاصة IQ.yz2t52oo0f.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\9f35fc58-3476-459b-8d2f-c2f91d52824f_خلاصة IQ.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2618706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 12:13:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yz2t52oo0f"
+        },
+        {
+          "Name": "label",
+          "Value": "cvs/9f35fc58-3476-459b-8d2f-c2f91d52824f_خلاصة IQ.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/a43653b2-b27f-45ac-9d27-a928d2851044_HIM&MDA manual 1.0ac6pwf05j.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\a43653b2-b27f-45ac-9d27-a928d2851044_HIM&MDA manual 1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6263668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qKzs/vF+2e55RxzmXGDIWmKKB+7hGSmIvzRCba6sChI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 12:38:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ac6pwf05j"
+        },
+        {
+          "Name": "label",
+          "Value": "cvs/a43653b2-b27f-45ac-9d27-a928d2851044_HIM&MDA manual 1.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qKzs/vF+2e55RxzmXGDIWmKKB+7hGSmIvzRCba6sChI="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/a43653b2-b27f-45ac-9d27-a928d2851044_HIM&MDA manual 1.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\a43653b2-b27f-45ac-9d27-a928d2851044_HIM&MDA manual 1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6263668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qKzs/vF+2e55RxzmXGDIWmKKB+7hGSmIvzRCba6sChI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 12:38:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qKzs/vF+2e55RxzmXGDIWmKKB+7hGSmIvzRCba6sChI="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/a6c6d5b0-122f-4601-bad4-ec411dff4f62_خلاصة IQ.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\a6c6d5b0-122f-4601-bad4-ec411dff4f62_خلاصة IQ.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2618706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 09:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU="
+        }
+      ]
+    },
+    {
+      "Route": "cvs/a6c6d5b0-122f-4601-bad4-ec411dff4f62_خلاصة IQ.yz2t52oo0f.pdf",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\cvs\\a6c6d5b0-122f-4601-bad4-ec411dff4f62_خلاصة IQ.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2618706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 09:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yz2t52oo0f"
+        },
+        {
+          "Name": "label",
+          "Value": "cvs/a6c6d5b0-122f-4601-bad4-ec411dff4f62_خلاصة IQ.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/033587f8-9d65-4b27-b531-1055695643e0_Screenshot 2025-04-04 215057.png",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\033587f8-9d65-4b27-b531-1055695643e0_Screenshot 2025-04-04 215057.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+rvVz66wSy9TmRE6IMgaOdW6Z5w55/hLhm9uuWg7F4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 09:44:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+rvVz66wSy9TmRE6IMgaOdW6Z5w55/hLhm9uuWg7F4="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/033587f8-9d65-4b27-b531-1055695643e0_Screenshot 2025-04-04 215057.tyzk2sfcn0.png",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\033587f8-9d65-4b27-b531-1055695643e0_Screenshot 2025-04-04 215057.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+rvVz66wSy9TmRE6IMgaOdW6Z5w55/hLhm9uuWg7F4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 09:44:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tyzk2sfcn0"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/033587f8-9d65-4b27-b531-1055695643e0_Screenshot 2025-04-04 215057.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+rvVz66wSy9TmRE6IMgaOdW6Z5w55/hLhm9uuWg7F4="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/2401c1d6-6729-41e0-bf9e-8885ef34b6db_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\2401c1d6-6729-41e0-bf9e-8885ef34b6db_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 10:52:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/2401c1d6-6729-41e0-bf9e-8885ef34b6db_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.zx0zf9e021.webp",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\2401c1d6-6729-41e0-bf9e-8885ef34b6db_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 10:52:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zx0zf9e021"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/2401c1d6-6729-41e0-bf9e-8885ef34b6db_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/335a4760-f99e-4e92-82ca-cd4c8f88dabe_Outdoors-man-portrait_(cropped).jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\335a4760-f99e-4e92-82ca-cd4c8f88dabe_Outdoors-man-portrait_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2193556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wwtua97XkjFXHOCo3S3xhkw4XzqFBhp+5X8BO3Gwzxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 17:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wwtua97XkjFXHOCo3S3xhkw4XzqFBhp+5X8BO3Gwzxc="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/335a4760-f99e-4e92-82ca-cd4c8f88dabe_Outdoors-man-portrait_(cropped).rkz19ibrcx.jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\335a4760-f99e-4e92-82ca-cd4c8f88dabe_Outdoors-man-portrait_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2193556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wwtua97XkjFXHOCo3S3xhkw4XzqFBhp+5X8BO3Gwzxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 17:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rkz19ibrcx"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/335a4760-f99e-4e92-82ca-cd4c8f88dabe_Outdoors-man-portrait_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wwtua97XkjFXHOCo3S3xhkw4XzqFBhp+5X8BO3Gwzxc="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/35c9fe04-728b-4f8b-8bb7-bb22b126b7d5_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\35c9fe04-728b-4f8b-8bb7-bb22b126b7d5_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/35c9fe04-728b-4f8b-8bb7-bb22b126b7d5_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.zx0zf9e021.webp",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\35c9fe04-728b-4f8b-8bb7-bb22b126b7d5_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zx0zf9e021"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/35c9fe04-728b-4f8b-8bb7-bb22b126b7d5_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/3947e358-470a-483a-9b37-1a1012cb738d_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\3947e358-470a-483a-9b37-1a1012cb738d_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/3947e358-470a-483a-9b37-1a1012cb738d_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.zx0zf9e021.webp",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\3947e358-470a-483a-9b37-1a1012cb738d_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zx0zf9e021"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/3947e358-470a-483a-9b37-1a1012cb738d_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/3ac05f21-798f-4b36-88b4-5afc5aaa2e27_Outdoors-man-portrait_(cropped).jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\3ac05f21-798f-4b36-88b4-5afc5aaa2e27_Outdoors-man-portrait_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2193556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wwtua97XkjFXHOCo3S3xhkw4XzqFBhp+5X8BO3Gwzxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 12:39:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wwtua97XkjFXHOCo3S3xhkw4XzqFBhp+5X8BO3Gwzxc="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/3ac05f21-798f-4b36-88b4-5afc5aaa2e27_Outdoors-man-portrait_(cropped).rkz19ibrcx.jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\3ac05f21-798f-4b36-88b4-5afc5aaa2e27_Outdoors-man-portrait_(cropped).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2193556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wwtua97XkjFXHOCo3S3xhkw4XzqFBhp+5X8BO3Gwzxc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 12:39:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rkz19ibrcx"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/3ac05f21-798f-4b36-88b4-5afc5aaa2e27_Outdoors-man-portrait_(cropped).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wwtua97XkjFXHOCo3S3xhkw4XzqFBhp+5X8BO3Gwzxc="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/441eced8-98f2-4994-bce8-6a058073c486_download.jfif",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\441eced8-98f2-4994-bce8-6a058073c486_download.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y8Uw1/nZ/IkOdYoSv7s7S+l3mn5Fzh5KU5T9RKLyS9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 12:03:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y8Uw1/nZ/IkOdYoSv7s7S+l3mn5Fzh5KU5T9RKLyS9g="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/441eced8-98f2-4994-bce8-6a058073c486_download.rehtguwmrz.jfif",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\441eced8-98f2-4994-bce8-6a058073c486_download.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y8Uw1/nZ/IkOdYoSv7s7S+l3mn5Fzh5KU5T9RKLyS9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 12:03:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rehtguwmrz"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/441eced8-98f2-4994-bce8-6a058073c486_download.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y8Uw1/nZ/IkOdYoSv7s7S+l3mn5Fzh5KU5T9RKLyS9g="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/4726a412-36fd-452f-befd-0ab9360e7ff5_We_logo.svg.b3utukyj06.png",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\4726a412-36fd-452f-befd-0ab9360e7ff5_We_logo.svg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l8uhA8acxfVlyMAbin/Kot9ZVNblW4x9hrK5sQj6sv0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 17:20:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b3utukyj06"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/4726a412-36fd-452f-befd-0ab9360e7ff5_We_logo.svg.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l8uhA8acxfVlyMAbin/Kot9ZVNblW4x9hrK5sQj6sv0="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/4726a412-36fd-452f-befd-0ab9360e7ff5_We_logo.svg.png",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\4726a412-36fd-452f-befd-0ab9360e7ff5_We_logo.svg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l8uhA8acxfVlyMAbin/Kot9ZVNblW4x9hrK5sQj6sv0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 17:20:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l8uhA8acxfVlyMAbin/Kot9ZVNblW4x9hrK5sQj6sv0="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/66ff3e9b-468e-4f8d-b2c2-0ab48dd9bda5_Screenshot (2).png",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\66ff3e9b-468e-4f8d-b2c2-0ab48dd9bda5_Screenshot (2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gjwPeBHzEAi+xhxXPbSPESHa7mRLW35/QJkf3WEfBbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 16:21:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gjwPeBHzEAi+xhxXPbSPESHa7mRLW35/QJkf3WEfBbk="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/66ff3e9b-468e-4f8d-b2c2-0ab48dd9bda5_Screenshot (2).uweoik8juq.png",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\66ff3e9b-468e-4f8d-b2c2-0ab48dd9bda5_Screenshot (2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gjwPeBHzEAi+xhxXPbSPESHa7mRLW35/QJkf3WEfBbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 16:21:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uweoik8juq"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/66ff3e9b-468e-4f8d-b2c2-0ab48dd9bda5_Screenshot (2).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gjwPeBHzEAi+xhxXPbSPESHa7mRLW35/QJkf3WEfBbk="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/6bddb4ae-4130-47fa-803c-a5dbbfb30223_494356430_715753211028586_7703142678105877096_n.jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\6bddb4ae-4130-47fa-803c-a5dbbfb30223_494356430_715753211028586_7703142678105877096_n.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2054335"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EAl8t1Yqapq5m/YH1U/x3Nxld/nYXkrY1rSICveIR+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 09:34:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EAl8t1Yqapq5m/YH1U/x3Nxld/nYXkrY1rSICveIR+0="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/6bddb4ae-4130-47fa-803c-a5dbbfb30223_494356430_715753211028586_7703142678105877096_n.wsekf00kkd.jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\6bddb4ae-4130-47fa-803c-a5dbbfb30223_494356430_715753211028586_7703142678105877096_n.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2054335"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EAl8t1Yqapq5m/YH1U/x3Nxld/nYXkrY1rSICveIR+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 09:34:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wsekf00kkd"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/6bddb4ae-4130-47fa-803c-a5dbbfb30223_494356430_715753211028586_7703142678105877096_n.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EAl8t1Yqapq5m/YH1U/x3Nxld/nYXkrY1rSICveIR+0="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/80113249-3644-4e07-926e-05c62a2d805b_anime-girl-tattoo-demon-horn-8k-wallpaper-uhdpaper.com-224@3@a.io9sel84um.jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\80113249-3644-4e07-926e-05c62a2d805b_anime-girl-tattoo-demon-horn-8k-wallpaper-uhdpaper.com-224@3@a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2282370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/h0+OMVsO4W38kIH359qYWDd3W4lOSpXLI+QFbhEo3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 12:14:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "io9sel84um"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/80113249-3644-4e07-926e-05c62a2d805b_anime-girl-tattoo-demon-horn-8k-wallpaper-uhdpaper.com-224@3@a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/h0+OMVsO4W38kIH359qYWDd3W4lOSpXLI+QFbhEo3s="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/80113249-3644-4e07-926e-05c62a2d805b_anime-girl-tattoo-demon-horn-8k-wallpaper-uhdpaper.com-224@3@a.jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\80113249-3644-4e07-926e-05c62a2d805b_anime-girl-tattoo-demon-horn-8k-wallpaper-uhdpaper.com-224@3@a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2282370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/h0+OMVsO4W38kIH359qYWDd3W4lOSpXLI+QFbhEo3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 12:14:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/h0+OMVsO4W38kIH359qYWDd3W4lOSpXLI+QFbhEo3s="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/a4e280f2-f6f3-4371-880f-fdd09791651a_Screenshot (265).png",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\a4e280f2-f6f3-4371-880f-fdd09791651a_Screenshot (265).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1149888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vQF3Ypq7EEoKf6UxsGHSocO/GWT14h7dh2I9Dzu0+q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 12:53:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vQF3Ypq7EEoKf6UxsGHSocO/GWT14h7dh2I9Dzu0+q0="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/a4e280f2-f6f3-4371-880f-fdd09791651a_Screenshot (265).tgu2jexw8m.png",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\a4e280f2-f6f3-4371-880f-fdd09791651a_Screenshot (265).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1149888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vQF3Ypq7EEoKf6UxsGHSocO/GWT14h7dh2I9Dzu0+q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 12:53:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tgu2jexw8m"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/a4e280f2-f6f3-4371-880f-fdd09791651a_Screenshot (265).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vQF3Ypq7EEoKf6UxsGHSocO/GWT14h7dh2I9Dzu0+q0="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/bf3eb814-0c07-4fba-b528-79282f70bd05_bcf893c4128e6b65d0e472383f3e9f23.76mgy9lnsn.jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\bf3eb814-0c07-4fba-b528-79282f70bd05_bcf893c4128e6b65d0e472383f3e9f23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfUwm1G+2gelAtRJ3vPLoewhxyHLrHnZfbnXsLfM8EM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 11:13:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76mgy9lnsn"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/bf3eb814-0c07-4fba-b528-79282f70bd05_bcf893c4128e6b65d0e472383f3e9f23.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wfUwm1G+2gelAtRJ3vPLoewhxyHLrHnZfbnXsLfM8EM="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/bf3eb814-0c07-4fba-b528-79282f70bd05_bcf893c4128e6b65d0e472383f3e9f23.jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\bf3eb814-0c07-4fba-b528-79282f70bd05_bcf893c4128e6b65d0e472383f3e9f23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfUwm1G+2gelAtRJ3vPLoewhxyHLrHnZfbnXsLfM8EM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 11:13:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wfUwm1G+2gelAtRJ3vPLoewhxyHLrHnZfbnXsLfM8EM="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/c56d8aa1-df45-40ac-b440-628e78429ac0_images.g8m84pfna3.jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\c56d8aa1-df45-40ac-b440-628e78429ac0_images.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cKW5WOLXnZfwda3EeI5+bqvvNbWtudfOv4WcXRv+1x8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:52:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g8m84pfna3"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/c56d8aa1-df45-40ac-b440-628e78429ac0_images.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cKW5WOLXnZfwda3EeI5+bqvvNbWtudfOv4WcXRv+1x8="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/c56d8aa1-df45-40ac-b440-628e78429ac0_images.jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\c56d8aa1-df45-40ac-b440-628e78429ac0_images.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cKW5WOLXnZfwda3EeI5+bqvvNbWtudfOv4WcXRv+1x8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 12:52:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cKW5WOLXnZfwda3EeI5+bqvvNbWtudfOv4WcXRv+1x8="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/d163adc6-e63c-4969-9417-18a20a794145_Screenshot (2).png",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\d163adc6-e63c-4969-9417-18a20a794145_Screenshot (2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gjwPeBHzEAi+xhxXPbSPESHa7mRLW35/QJkf3WEfBbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 17:18:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gjwPeBHzEAi+xhxXPbSPESHa7mRLW35/QJkf3WEfBbk="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/d163adc6-e63c-4969-9417-18a20a794145_Screenshot (2).uweoik8juq.png",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\d163adc6-e63c-4969-9417-18a20a794145_Screenshot (2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gjwPeBHzEAi+xhxXPbSPESHa7mRLW35/QJkf3WEfBbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Jul 2025 17:18:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uweoik8juq"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/d163adc6-e63c-4969-9417-18a20a794145_Screenshot (2).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gjwPeBHzEAi+xhxXPbSPESHa7mRLW35/QJkf3WEfBbk="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/e47b0cbe-ae26-41a7-b265-0ed4d1786175_unnamed.i45n9s11rq.jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\e47b0cbe-ae26-41a7-b265-0ed4d1786175_unnamed.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"smKRX7o9pW93TJdOgoxAQwivuEFPSfimrE6uqSgzjfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 09:52:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i45n9s11rq"
+        },
+        {
+          "Name": "label",
+          "Value": "user-profile-pics/e47b0cbe-ae26-41a7-b265-0ed4d1786175_unnamed.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-smKRX7o9pW93TJdOgoxAQwivuEFPSfimrE6uqSgzjfI="
+        }
+      ]
+    },
+    {
+      "Route": "user-profile-pics/e47b0cbe-ae26-41a7-b265-0ed4d1786175_unnamed.jpg",
+      "AssetFile": "C:\\Users\\Hakeem\\Desktop\\ReadyHire\\ReadyHire\\ReadyHire\\ReadyHire\\wwwroot\\user-profile-pics\\e47b0cbe-ae26-41a7-b265-0ed4d1786175_unnamed.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"smKRX7o9pW93TJdOgoxAQwivuEFPSfimrE6uqSgzjfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 09:52:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-smKRX7o9pW93TJdOgoxAQwivuEFPSfimrE6uqSgzjfI="
+        }
+      ]
+    }
+  ]
+}

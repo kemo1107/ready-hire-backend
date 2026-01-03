@@ -1,0 +1,6 @@
+@B2W_HostAddress = http://localhost:5223
+
+GET {{B2W_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

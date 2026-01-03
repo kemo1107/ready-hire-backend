@@ -1,0 +1,436 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\1214573d-9193-4358-99dc-9e9892b962c6_خلاصة IQ.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>cvs/1214573d-9193-4358-99dc-9e9892b962c6_خلاصة IQ.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yz2t52oo0f</Fingerprint>
+      <Integrity>kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\1214573d-9193-4358-99dc-9e9892b962c6_خلاصة IQ.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\20e2c1b6-38ce-4eb5-812f-fbec96c5b918_خلاصة EN.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>cvs/20e2c1b6-38ce-4eb5-812f-fbec96c5b918_خلاصة EN.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ye780w6x52</Fingerprint>
+      <Integrity>dgi4Q3//QcDrdlu+jSXQ0Xc3hehPZ9DJ0rVEqYuxIOU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\20e2c1b6-38ce-4eb5-812f-fbec96c5b918_خلاصة EN.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\4238f5e9-da72-4e48-9a6b-2c07b484fe32_MC MCQ 3 Solved.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>cvs/4238f5e9-da72-4e48-9a6b-2c07b484fe32_MC MCQ 3 Solved.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>en8c3qz4c8</Fingerprint>
+      <Integrity>ynGuOHVmsCsVwuXwwuJvM0mMkFqawJP8XRpa7JxLkMQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\4238f5e9-da72-4e48-9a6b-2c07b484fe32_MC MCQ 3 Solved.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\5286af11-b52c-4087-b26d-ebdb8468089d_خلاصة IQ.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>cvs/5286af11-b52c-4087-b26d-ebdb8468089d_خلاصة IQ.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yz2t52oo0f</Fingerprint>
+      <Integrity>kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\5286af11-b52c-4087-b26d-ebdb8468089d_خلاصة IQ.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\600b6b9b-5a69-42f1-9b6a-f4f52d90697e_خلاصة EN.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>cvs/600b6b9b-5a69-42f1-9b6a-f4f52d90697e_خلاصة EN.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ye780w6x52</Fingerprint>
+      <Integrity>dgi4Q3//QcDrdlu+jSXQ0Xc3hehPZ9DJ0rVEqYuxIOU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\600b6b9b-5a69-42f1-9b6a-f4f52d90697e_خلاصة EN.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\9f35fc58-3476-459b-8d2f-c2f91d52824f_خلاصة IQ.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>cvs/9f35fc58-3476-459b-8d2f-c2f91d52824f_خلاصة IQ.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yz2t52oo0f</Fingerprint>
+      <Integrity>kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\9f35fc58-3476-459b-8d2f-c2f91d52824f_خلاصة IQ.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\a43653b2-b27f-45ac-9d27-a928d2851044_HIM&amp;MDA manual 1.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>cvs/a43653b2-b27f-45ac-9d27-a928d2851044_HIM&amp;MDA manual 1.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0ac6pwf05j</Fingerprint>
+      <Integrity>qKzs/vF+2e55RxzmXGDIWmKKB+7hGSmIvzRCba6sChI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\a43653b2-b27f-45ac-9d27-a928d2851044_HIM&amp;MDA manual 1.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\a6c6d5b0-122f-4601-bad4-ec411dff4f62_خلاصة IQ.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>cvs/a6c6d5b0-122f-4601-bad4-ec411dff4f62_خلاصة IQ.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yz2t52oo0f</Fingerprint>
+      <Integrity>kl4qkOcudUKMweqqAk+Yl/64a29P/A/Xz/Jw7H/1LiU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cvs\a6c6d5b0-122f-4601-bad4-ec411dff4f62_خلاصة IQ.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\033587f8-9d65-4b27-b531-1055695643e0_Screenshot 2025-04-04 215057.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/033587f8-9d65-4b27-b531-1055695643e0_Screenshot 2025-04-04 215057.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>tyzk2sfcn0</Fingerprint>
+      <Integrity>6+rvVz66wSy9TmRE6IMgaOdW6Z5w55/hLhm9uuWg7F4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\033587f8-9d65-4b27-b531-1055695643e0_Screenshot 2025-04-04 215057.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\2401c1d6-6729-41e0-bf9e-8885ef34b6db_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/2401c1d6-6729-41e0-bf9e-8885ef34b6db_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zx0zf9e021</Fingerprint>
+      <Integrity>hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\2401c1d6-6729-41e0-bf9e-8885ef34b6db_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\335a4760-f99e-4e92-82ca-cd4c8f88dabe_Outdoors-man-portrait_(cropped).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/335a4760-f99e-4e92-82ca-cd4c8f88dabe_Outdoors-man-portrait_(cropped).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rkz19ibrcx</Fingerprint>
+      <Integrity>Wwtua97XkjFXHOCo3S3xhkw4XzqFBhp+5X8BO3Gwzxc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\335a4760-f99e-4e92-82ca-cd4c8f88dabe_Outdoors-man-portrait_(cropped).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\35c9fe04-728b-4f8b-8bb7-bb22b126b7d5_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/35c9fe04-728b-4f8b-8bb7-bb22b126b7d5_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zx0zf9e021</Fingerprint>
+      <Integrity>hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\35c9fe04-728b-4f8b-8bb7-bb22b126b7d5_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\3947e358-470a-483a-9b37-1a1012cb738d_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/3947e358-470a-483a-9b37-1a1012cb738d_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zx0zf9e021</Fingerprint>
+      <Integrity>hwLyAzYt0KEuHnrM71v/9hoH27kd56nNcr3bL/sEYyg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\3947e358-470a-483a-9b37-1a1012cb738d_portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\3ac05f21-798f-4b36-88b4-5afc5aaa2e27_Outdoors-man-portrait_(cropped).jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/3ac05f21-798f-4b36-88b4-5afc5aaa2e27_Outdoors-man-portrait_(cropped).jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rkz19ibrcx</Fingerprint>
+      <Integrity>Wwtua97XkjFXHOCo3S3xhkw4XzqFBhp+5X8BO3Gwzxc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\3ac05f21-798f-4b36-88b4-5afc5aaa2e27_Outdoors-man-portrait_(cropped).jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\441eced8-98f2-4994-bce8-6a058073c486_download.jfif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/441eced8-98f2-4994-bce8-6a058073c486_download.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rehtguwmrz</Fingerprint>
+      <Integrity>Y8Uw1/nZ/IkOdYoSv7s7S+l3mn5Fzh5KU5T9RKLyS9g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\441eced8-98f2-4994-bce8-6a058073c486_download.jfif'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\4726a412-36fd-452f-befd-0ab9360e7ff5_We_logo.svg.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/4726a412-36fd-452f-befd-0ab9360e7ff5_We_logo.svg.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>b3utukyj06</Fingerprint>
+      <Integrity>l8uhA8acxfVlyMAbin/Kot9ZVNblW4x9hrK5sQj6sv0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\4726a412-36fd-452f-befd-0ab9360e7ff5_We_logo.svg.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\66ff3e9b-468e-4f8d-b2c2-0ab48dd9bda5_Screenshot (2).png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/66ff3e9b-468e-4f8d-b2c2-0ab48dd9bda5_Screenshot (2).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>uweoik8juq</Fingerprint>
+      <Integrity>gjwPeBHzEAi+xhxXPbSPESHa7mRLW35/QJkf3WEfBbk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\66ff3e9b-468e-4f8d-b2c2-0ab48dd9bda5_Screenshot (2).png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\6bddb4ae-4130-47fa-803c-a5dbbfb30223_494356430_715753211028586_7703142678105877096_n.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/6bddb4ae-4130-47fa-803c-a5dbbfb30223_494356430_715753211028586_7703142678105877096_n.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wsekf00kkd</Fingerprint>
+      <Integrity>EAl8t1Yqapq5m/YH1U/x3Nxld/nYXkrY1rSICveIR+0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\6bddb4ae-4130-47fa-803c-a5dbbfb30223_494356430_715753211028586_7703142678105877096_n.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\80113249-3644-4e07-926e-05c62a2d805b_anime-girl-tattoo-demon-horn-8k-wallpaper-uhdpaper.com-224@3@a.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/80113249-3644-4e07-926e-05c62a2d805b_anime-girl-tattoo-demon-horn-8k-wallpaper-uhdpaper.com-224@3@a.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>io9sel84um</Fingerprint>
+      <Integrity>/h0+OMVsO4W38kIH359qYWDd3W4lOSpXLI+QFbhEo3s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\80113249-3644-4e07-926e-05c62a2d805b_anime-girl-tattoo-demon-horn-8k-wallpaper-uhdpaper.com-224@3@a.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\a4e280f2-f6f3-4371-880f-fdd09791651a_Screenshot (265).png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/a4e280f2-f6f3-4371-880f-fdd09791651a_Screenshot (265).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>tgu2jexw8m</Fingerprint>
+      <Integrity>vQF3Ypq7EEoKf6UxsGHSocO/GWT14h7dh2I9Dzu0+q0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\a4e280f2-f6f3-4371-880f-fdd09791651a_Screenshot (265).png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\bf3eb814-0c07-4fba-b528-79282f70bd05_bcf893c4128e6b65d0e472383f3e9f23.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/bf3eb814-0c07-4fba-b528-79282f70bd05_bcf893c4128e6b65d0e472383f3e9f23.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>76mgy9lnsn</Fingerprint>
+      <Integrity>wfUwm1G+2gelAtRJ3vPLoewhxyHLrHnZfbnXsLfM8EM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\bf3eb814-0c07-4fba-b528-79282f70bd05_bcf893c4128e6b65d0e472383f3e9f23.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\c56d8aa1-df45-40ac-b440-628e78429ac0_images.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/c56d8aa1-df45-40ac-b440-628e78429ac0_images.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>g8m84pfna3</Fingerprint>
+      <Integrity>cKW5WOLXnZfwda3EeI5+bqvvNbWtudfOv4WcXRv+1x8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\c56d8aa1-df45-40ac-b440-628e78429ac0_images.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\d163adc6-e63c-4969-9417-18a20a794145_Screenshot (2).png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/d163adc6-e63c-4969-9417-18a20a794145_Screenshot (2).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>uweoik8juq</Fingerprint>
+      <Integrity>gjwPeBHzEAi+xhxXPbSPESHa7mRLW35/QJkf3WEfBbk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\d163adc6-e63c-4969-9417-18a20a794145_Screenshot (2).png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\e47b0cbe-ae26-41a7-b265-0ed4d1786175_unnamed.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>B2W</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/B2W</BasePath>
+      <RelativePath>user-profile-pics/e47b0cbe-ae26-41a7-b265-0ed4d1786175_unnamed.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>i45n9s11rq</Fingerprint>
+      <Integrity>smKRX7o9pW93TJdOgoxAQwivuEFPSfimrE6uqSgzjfI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\user-profile-pics\e47b0cbe-ae26-41a7-b265-0ed4d1786175_unnamed.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
