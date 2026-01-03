@@ -1,13 +1,7 @@
-# Ignore build folders
-bin/
-obj/
-
-# User-specific files
-*.user
-*.suo
-
-# Logs
-*.log
-
-# Visual Studio files
-.vs/
+bin/ 
+obj/ 
+.vs/ 
+*.user 
+*.suo 
+*.log 
+*.db 
